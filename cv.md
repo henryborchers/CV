@@ -234,19 +234,19 @@ As an intern within the Sound Department, I observed and assisted in performing 
 
 # Professional Service: Membership/Committees
 
-* Association of Moving Image Archivists
+## Association of Moving Image Archivists
   * Membership: 2012 - present
 
-* Association for Recorded Sound Collections
+## Association for Recorded Sound Collections
   * Membership: 2013 - present
 
-* Audio Engineering Society
+## Audio Engineering Society
   * Membership: 2013 - present
 
-* International Association of Sound and Audiovisual Archives
+## International Association of Sound and Audiovisual Archives
   * Membership: 2013 - present
 
-* Mid-Atlantic Regional Archives Conference
+## Mid-Atlantic Regional Archives Conference
   * Membership: 2013 - 2014
 
 
