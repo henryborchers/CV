@@ -4,8 +4,22 @@ pipeline {
     stage('start') {
       agent any
       steps {
-        echo 'hello world'
-        echo 'Hello There'
+        parallel(
+          "start": {
+            echo 'hello world'
+            echo 'Hello There'
+            
+          },
+          "stage2": {
+            echo 'asdfasdf'
+            
+          }
+        )
+      }
+    }
+    stage('sss') {
+      steps {
+        echo 'ssss'
       }
     }
   }
