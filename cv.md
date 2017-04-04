@@ -1,5 +1,37 @@
 # Employment History
 
+## AV IT Specialist 3
+* University of California: Berkeley
+* September 2015 - December 2015
+* Berkeley, CA
+
+### Description:
+As the AV IT Specialist for the Department of Film and Media, I provided technical support for all AV systems used by the departments teaching staff and faculty. 
+
+### Accomplishments
+* Provided technical AV/IT support to the Film and Media and Rhetoric departments for classroom instruction, special events, meetings and conferences.
+* Operated 16mm film projectors for class screenings.
+* Researched open source integrated library system for managing Film and Media and Rhetoric department's library media collections.
+* Built a prototype ILS server using Koha for testing.
+
+### Technologies:
+* AV Equipment:
+  * 16mm film projector
+  * DVD/Blu-ray Player
+  * VHS Player
+  * LaserDisk Player
+  * AV routers/switchers
+* Google Calendar
+* Integrated Library System:
+  * Koha
+* Database Software:
+  * Filemaker Pro
+* VMWare Workstation
+* Operating Systems:
+  * Apple OS X
+  * Ubuntu Linux 14.04
+  * Microsoft Windows 8
+
 ## Digital Preservation Project Assistant
 * California Audio Visual Presentation Project
 * December 2014 - August 2015
