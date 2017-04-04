@@ -1,5 +1,64 @@
 # Employment History
 
+## Digital Library Technical Coordinator
+* University of Illinois: Urbana Champaign
+* January 2016 - Present
+
+### Description:
+As the Digital Library Technical Coordinator, I support the planning, implementation and ongoing production of the Library’s digital collections, with particular emphasis on project design, digitization workflows, and transfer into content and delivery systems.
+
+### Accomplishments
+
+#### Projects:
+* Migrating CONTENTdm collections to Medusa Digital library. Progress: on-going.
+* Python scripts:
+  * Script to assisted Born Digital workflows in creating package folders for ingestion.
+  * Script to automate the production file organization into Medusa packages.
+  * Script to derive access jp2 image files from production files.
+* Remediated legacy Brittle Books scanned jp2 image files. 
+
+### Technologies:
+* Operating systems:
+  * OS X
+  * Microsoft Windows 7
+  * Microsoft Windows Server 2012
+  * Centos Linux
+  * Ubuntu 16.04 (Server and Desktop)
+* Integrated Development Environment software:
+  * Jetbrains PyCharm
+  * Jetbrains CLion
+  * Microsoft Visual Studio
+* Text Editors:
+  * Atom
+  * Vim
+  * TextWrangler
+  * Notepad++
+* Programming languages: 
+  * Python
+  * BASH
+  * Groovy
+  * Makefile
+  * C
+  * C++
+  * CMake
+* Markup languages and Serialization formats:
+  * XML
+  * JSON
+  * Markdown
+  * reStructuredText
+* Microsoft Office Suite:
+  * Microsoft Excel
+  * Microsoft OneNote
+  * Microsoft Outlook
+  * Microsoft Word
+* Other Software:
+  * ImageMagick
+  * Jenkins
+  * Oxygen
+  * Docker/Docker-Machine
+  * VMWare Fusion 8
+  * VMWare Workstation 12
+  * Autodesk Maya 
 ## AV IT Specialist 3
 * University of California: Berkeley
 * September 2015 - December 2015
