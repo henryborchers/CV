@@ -12,53 +12,53 @@ As the Digital Library Technical Coordinator, I support the planning, implementa
 #### Projects:
 * Migrating CONTENTdm collections to Medusa Digital library. Progress: on-going.
 * Python scripts:
-  * Script to assisted Born Digital workflows in creating package folders for ingestion.
-  * Script to automate the production file organization into Medusa packages.
-  * Script to derive access jp2 image files from production files.
+    * Script to assisted Born Digital workflows in creating package folders for ingestion.
+    * Script to automate the production file organization into Medusa packages.
+    * Script to derive access jp2 image files from production files.
 * Remediated legacy Brittle Books scanned jp2 image files. 
 
 ### Technologies:
 * Operating systems:
-  * OS X
-  * Microsoft Windows 7
-  * Microsoft Windows Server 2012
-  * Centos Linux
-  * Ubuntu 16.04 (Server and Desktop)
+    * OS X
+    * Microsoft Windows 7
+    * Microsoft Windows Server 2012
+    * Centos Linux
+    * Ubuntu 16.04 (Server and Desktop)
 * Integrated Development Environment software:
-  * Jetbrains PyCharm
-  * Jetbrains CLion
-  * Microsoft Visual Studio
+    * Jetbrains PyCharm
+    * Jetbrains CLion
+    * Microsoft Visual Studio
 * Text Editors:
-  * Atom
-  * Vim
-  * TextWrangler
-  * Notepad++
+    * Atom
+    * Vim
+    * TextWrangler
+    * Notepad++
 * Programming languages: 
-  * Python
-  * BASH
-  * Groovy
-  * Makefile
-  * C
-  * C++
-  * CMake
+    * Python
+    * BASH
+    * Groovy
+    * Makefile
+    * C
+    * C++
+    * CMake
 * Markup languages and Serialization formats:
-  * XML
-  * JSON
-  * Markdown
-  * reStructuredText
+    * XML
+    * JSON
+    * Markdown
+    * reStructuredText
 * Microsoft Office Suite:
-  * Microsoft Excel
-  * Microsoft OneNote
-  * Microsoft Outlook
-  * Microsoft Word
+    * Microsoft Excel
+    * Microsoft OneNote
+    * Microsoft Outlook
+    * Microsoft Word
 * Other Software:
-  * ImageMagick
-  * Jenkins
-  * Oxygen
-  * Docker/Docker-Machine
-  * VMWare Fusion 8
-  * VMWare Workstation 12
-  * Autodesk Maya 
+    * ImageMagick
+    * Jenkins
+    * Oxygen
+    * Docker/Docker-Machine
+    * VMWare Fusion 8
+    * VMWare Workstation 12
+    * Autodesk Maya 
 ## AV IT Specialist 3
 * University of California: Berkeley
 * September 2015 - December 2015
@@ -75,21 +75,21 @@ As the AV IT Specialist for the Department of Film and Media, I provided technic
 
 ### Technologies:
 * AV Equipment:
-  * 16mm film projector
-  * DVD/Blu-ray Player
-  * VHS Player
-  * LaserDisk Player
-  * AV routers/switchers
+    * 16mm film projector
+    * DVD/Blu-ray Player
+    * VHS Player
+    * LaserDisk Player
+    * AV routers/switchers
 * Google Calendar
 * Integrated Library System:
-  * Koha
+    * Koha
 * Database Software:
-  * Filemaker Pro
+    * Filemaker Pro
 * VMWare Workstation
 * Operating Systems:
-  * Apple OS X
-  * Ubuntu Linux 14.04
-  * Microsoft Windows 8
+    * Apple OS X
+    * Ubuntu Linux 14.04
+    * Microsoft Windows 8
 
 ## Digital Preservation Project Assistant
 * California Audio Visual Presentation Project
@@ -111,15 +111,15 @@ As the Digital Preservation Project Assistant,  I was hired to help acquire, pro
 ### Technologies:
 * Google Docs
 * Integrated Development Environment software: 
-  * Jetbrains PyCharm
+    * Jetbrains PyCharm
 * Programming languages:
-  * Python
+    * Python
 * Video Nonlinear Editors: 
-  * Adobe Premiere
-  * Apple Final Cut Pro
+    * Adobe Premiere
+    * Apple Final Cut Pro
 * Digital Audio Workstation Software: 
-  * Adobe Audition
-  * Steinberg Wavelab SE
+    * Adobe Audition
+    * Steinberg Wavelab SE
 
 ## San Francisco Preservation Hub Manager
 * Dance Heritage Coalition
@@ -142,10 +142,10 @@ My primary responsibilities as Preservation Hub Manager included evaluating San 
 ### Technologies:
 * Google Docs
 * Project Management Software: 
-  * Teamwork PM
+    * Teamwork PM
 * Video Nonlinear Editor: 
-  * Final Cut Pro
-  * V-Record
+    * Final Cut Pro
+    * V-Record
 
 ## Broadcast Digitization Librarian
 * University of Maryland, College Park
@@ -199,27 +199,27 @@ The University of Maryland Libraries Post-MLS Residency Program is designed to p
 
 ### Technologies:
 * Programming languages: 
-  * Python
-  * BASH
-  * SQL
+    * Python
+    * BASH
+    * SQL
 * Integrated Development Environment software:
-  * Apple Xcode
-  * Eclipse
-  * Jetbrains PyCharm
+    * Apple Xcode
+    * Eclipse
+    * Jetbrains PyCharm
 * Database software:
-  * Oracle MySQL
-  * Oracle MySQL Workbench
+    * Oracle MySQL
+    * Oracle MySQL Workbench
 * Digital Audio Workstation Software:
-  * Adobe Audition CS6
+    * Adobe Audition CS6
 * Audio Interface:
-  * RME Fireface UCX
+    * RME Fireface UCX
 * Video Capture Software: 
-  * Blackmagic Media Express 
-  * Live Capture Plus
+    * Blackmagic Media Express 
+    * Live Capture Plus
 * Non-Linear Video Editor Software: 
-  * Adobe Premiere CS6
+    * Adobe Premiere CS6
 * Video Capture Interface: 
-  * Blackmagic Multibridge Eclipse.
+    * Blackmagic Multibridge Eclipse.
 
 
 ## Magnetic Media Intern
@@ -276,11 +276,11 @@ Within the four month contractual position, I performed the digitization of anal
 * Audio Mastering: Ozone 4
 * Audio Interface: MOTU 828 MKIII
 * Audio playback machinery:
-  * reel-to-reel
-  * high-speed cassette dubber
-  * Sony Minidisc
-  * LP turntable
-  * NAGRA 
+    * reel-to-reel
+    * high-speed cassette dubber
+    * Sony Minidisc
+    * LP turntable
+    * NAGRA 
 
 ## Film Digital Restoration Intern
 * SuperSens 
@@ -326,19 +326,19 @@ As an intern within the Sound Department, I observed and assisted in performing 
 # Professional Service: Membership/Committees
 
 ## Association of Moving Image Archivists
-  * Membership: 2012 - present
+    * Membership: 2012 - present
 
 ## Association for Recorded Sound Collections
-  * Membership: 2013 - present
+    * Membership: 2013 - present
 
 ## Audio Engineering Society
-  * Membership: 2013 - present
+    * Membership: 2013 - present
 
 ## International Association of Sound and Audiovisual Archives
-  * Membership: 2013 - present
+    * Membership: 2013 - present
 
 ## Mid-Atlantic Regional Archives Conference
-  * Membership: 2013 - 2014
+    * Membership: 2013 - 2014
 
 
 # Education
@@ -420,7 +420,7 @@ This day-long workshop will bring together professionals from a variety of backg
 * 2012 Annual Conference. Seattle, Washington
  
 #### Workshop Description:
-This bi-annually held workshop is a unique program mindfully synthesizing metadata and cataloging concepts to provide a greater understanding of the foundations of metadata practice and application of cataloging principles to all types of resources found in our evolving media and media technology environment. The workshop includes discussions of the role of the cataloger in traditional and digital asset management; introductory principles to cataloging; the value, purpose and application of standards; management of resources through their life cycles; descriptive, structural, and administrative metadata (including rights and preservation metadata); data models and data mapping, and content description standards. We provide the recipe instructions to make an alphabet soup that includes AACR2, AMIM2, CEN, DACS, DC, EBUCore, FIAF, FIAT, FRBR, IPTC, MARC, METS, MIX, MODS, PBCore, PREMIS, RAD, RDA, and SMPTE RP210. Dynamic presentations encompass film, video, digital, and broadcast materials and include interactive exercises to put cataloging and metadata concepts directly into practice. Conference
+This bi-annually held workshop is a unique program mindfully synthesizing metadata and cataloging concepts to provide a greater understanding of the foundations of metadata practice and application of cataloging principles to all types of resources found in our evolving media and media technology environment. The workshop includes discussions of the role of the cataloger in traditional and digital asset management; introductory principles to cataloging; the value, purpose and application of standards; management of resources through their life cycles; descriptive, structural, and administrative metadata (including rights and preservation metadata); data models and data mapping, and content description standards. We provide the recipe instructions to make an alphabet soup that includes AACR2, AMIM2, CEN, DACS, DC, EBUCore, FIAF, FIAT, FRBR, IPTC, MARC, METS, MIX, MODS, PBCore, PREMIS, RAD, RDA, and SMPTE RP210. Dynamic presentations encompass film, video, digital, and broadcast materials and include interactive exercises to put cataloging and metadata concepts directly into practice.
 
 ## Continuing Education: Conferences Attended
 
@@ -463,14 +463,14 @@ This bi-annually held workshop is a unique program mindfully synthesizing metada
 ## Continuing Education: eLearning Courses
 
 ### Pluralsight
-  * http://www.pluralsight.com
-  * August 2015 - April 2017
-  * Completed 16 courses
+    * http://www.pluralsight.com
+    * August 2015 - April 2017
+    * Completed 16 courses
  
 ### Lynda.com
-  * http://www.lynda.com
-  * February 2014 - April 2017
-  * Completed 91 courses
+    * http://www.lynda.com
+    * February 2014 - April 2017
+    * Completed 91 courses
 
 # Volunteer Service
 
