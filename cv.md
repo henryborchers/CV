@@ -389,19 +389,29 @@ This bi-annually held workshop is a unique program mindfully synthesizing metada
 * December 4-7, 2012
 * Seattle, WA
 
-
-## Audio Engineering Society 131st Convention
+### Audio Engineering Society 131st Convention
 * October 20 – 23, 2011
 * New York City
 
-## International Broadcasting Convention
+### International Broadcasting Convention
 * September 9-14, 2010
 * Amsterdam, The Netherlands
 
-## VIII MAGIS – International Film Studies Spring School
+### VIII MAGIS – International Film Studies Spring School
 * March 19-24 2010
 * Gorizia, Italy
 
+## Continuing Education: eLearning Courses
+
+### Pluralsight
+  * http://www.pluralsight.com
+  * August 2015 - April 2017
+  * Completed 16 courses
+ 
+### Lynda.com
+  * http://www.lynda.com
+  * February 2014 - April 2017
+  * Completed 91 courses
 
 # Volunteer Service
 
