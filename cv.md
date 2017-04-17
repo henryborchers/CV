@@ -53,6 +53,7 @@ As the Digital Library Technical Coordinator, I support the planning, implementa
     * Microsoft Word
 * Other Software:
     * ImageMagick
+    * Git
     * Jenkins
     * Oxygen
     * Docker/Docker-Machine
@@ -340,6 +341,19 @@ As an intern within the Sound Department, I observed and assisted in performing 
 ## Mid-Atlantic Regional Archives Conference
     * Membership: 2013 - 2014
 
+# Presentations and Publications
+
+## Non-Linear Video Inspection
+* September 25, 2016
+* Washington, DC
+* Oral Paper
+* International Association of Sound and Audiovisual Archives 2016 Conference
+
+## Visualizing Video Data Over Time
+* November 19, 2015
+* Portland, OR
+* Poster Presentation
+* Association of Moving Image Archivist 2015 Conference 
 
 # Education
 
@@ -424,12 +438,24 @@ This bi-annually held workshop is a unique program mindfully synthesizing metada
 
 ## Continuing Education: Conferences Attended
 
+### Association of Moving Image Archivists Conference
+* November 29 - December 2, 2016
+* Pittsburgh, PA
+
+### International Association of Sound and Audiovisual Archives Conference
+* September 25 - 29, 2016
+* Washington, DC
+
+### Association of Moving Image Archivists Conference
+* November 18 - 21, 2015
+* Portland, OR
+
 ### Mid-Atlantic Regional Archives Conference Spring 2014
-* April 24-26, 2014
+* April 24 - 26, 2014
 * Rochester, NY
 
 ### Association of Moving Image Archivists Conference
-* November 6-9, 2013
+* November 6 - 9, 2013
 * Richmond, VA
 
 ### Audio Engineering Society 135st Convention
@@ -441,11 +467,11 @@ This bi-annually held workshop is a unique program mindfully synthesizing metada
 * Washington, DC
 
 ### Association for Recorded Sound Collections Conference
-* May 15-18, 2013
+* May 15 - 18, 2013
 * Kansas City, MO
 
 ### Association of Moving Image Archivists Conference
-* December 4-7, 2012
+* December 4 - 7, 2012
 * Seattle, WA
 
 ### Audio Engineering Society 131st Convention
@@ -453,11 +479,11 @@ This bi-annually held workshop is a unique program mindfully synthesizing metada
 * New York City
 
 ### International Broadcasting Convention
-* September 9-14, 2010
+* September 9 - 14, 2010
 * Amsterdam, The Netherlands
 
 ### VIII MAGIS – International Film Studies Spring School
-* March 19-24 2010
+* March 19 - 24 2010
 * Gorizia, Italy
 
 ## Continuing Education: eLearning Courses
