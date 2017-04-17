@@ -60,6 +60,7 @@ As the Digital Library Technical Coordinator, I support the planning, implementa
     * VMWare Fusion 8
     * VMWare Workstation 12
     * Autodesk Maya 
+    
 ## AV IT Specialist 3
 * University of California: Berkeley
 * September 2015 - December 2015
@@ -136,10 +137,12 @@ My primary responsibilities as Preservation Hub Manager included evaluating San 
 * Digitized ED-Beta, Hi-8, and VHS tapes.
 * Updated workflow documentation.
 * equipment.
+
 #### Management:
 * Trained San Francisco hub staff on video digitization.
 * Managed file data for backup and shipping.
 * Managed digitization projects to best utilize time.
+
 ### Technologies:
 * Google Docs
 * Project Management Software: 
@@ -270,6 +273,7 @@ Within the four month contractual position, I performed the digitization of anal
 * Synchronized double-system (sepmag) audio tracks with digitized 8mm amateur and home movies.
 * Digitized client audio.
 * Restored and mastered client audio material.
+
 ### Technologies:
 * Digital Audio Workstation software: Avid/Digidesign Pro Tools 8 & 9
 * Non-linear (film/video) Editor: Apple Final Cut Pro
@@ -293,7 +297,6 @@ As the Film Digital Restoration intern I took part in a 5 month full-time intern
  
 ### Accomplishments:
 #### Project:
-#### Research:
 * Performed evaluative research on Black Magic DaVinchi Revival restoration software for film restoration of small gauge 8mm, Super8, 9.5mm, and 16mm home movie footage.
 * Cleaned and inspected amateur and home movie 8mm and Super 8 film reels for damage, decay, and dirt.
 
@@ -489,14 +492,14 @@ This bi-annually held workshop is a unique program mindfully synthesizing metada
 ## Continuing Education: eLearning Courses
 
 ### Pluralsight
-    * http://www.pluralsight.com
-    * August 2015 - April 2017
-    * Completed 16 courses
- 
+* http://www.pluralsight.com
+* August 2015 - April 2017
+* Completed 16 courses
+
 ### Lynda.com
-    * http://www.lynda.com
-    * February 2014 - April 2017
-    * Completed 91 courses
+* http://www.lynda.com
+* February 2014 - April 2017
+* Completed 91 courses
 
 # Volunteer Service
 
