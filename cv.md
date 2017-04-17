@@ -1,3 +1,9 @@
+| | |
+|-------|------------------------|
+|       | Henry Borchers         |
+| Phone | (217) 244-2110         |
+| Email | hborcher@illinois.edu  |
+
 # Employment History
 
 ## Digital Library Technical Coordinator
